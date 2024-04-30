@@ -1,0 +1,10 @@
+{
+    "default": {
+        "DBMS": "postgresql",
+        "HOST": "host ip", 
+        "PORT": 5432,
+        "DBNAME": "", 
+        "USER": "", 
+        "PASSWORD": ""
+    }
+}
