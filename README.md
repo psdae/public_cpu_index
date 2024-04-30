@@ -14,7 +14,7 @@
 - `data_count.png`: 필터링한 뉴스데이터 count의 plot
 - `data_ratio.png`: 필터링한 뉴스데이터 ratio의 plot
 - `index_cpu.csv`: 생성한 CPU Index 데이터
-- 'monthly_count.csv`: 언론사-월별 필터링한 데이터 개수의 count
+- `monthly_count.csv`: 언론사-월별 필터링한 데이터 개수의 count
 
 ---
 
